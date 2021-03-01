@@ -20,7 +20,7 @@ Pete Gallagher / Pete Codes / PJG Creations 2020
 You can install Dot Net 5 on the Raspberry Pi in one command by executing;
 
 ```
-wget -O - https://raw.githubusercontent.com/bluebeargreen-2/dotnet5pi/blob/master/install.sh | sudo bash
+wget -O - https://raw.githubusercontent.com/bluebeargreen-2/dotnet5pi/master/install.sh | sudo bash
 ```
 
 # Local Install Script
