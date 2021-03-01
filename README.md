@@ -1,5 +1,8 @@
 # Dot Net 5 with the Raspberry Pi
 
+This is just my edits to make this work with ubuntu on the pi
+The rest of this is not my work
+
 This is the source code to accompany my talk on Microsoft .Net 5 with the Raspberry Pi.
 
 Talk details, slides and a blog are incoming!
