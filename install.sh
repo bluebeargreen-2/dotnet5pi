@@ -160,7 +160,7 @@ echo -e "\e[0m"
 
 cd ~
 
-wget -O /home/ubuntu/dotnetdebug.sh https://raw.githubusercontent.com/pjgpetecodes/dotnet5ubuntu/master/dotnetdebug.sh
+wget -O /home/ubuntu/dotnetdebug.sh https://raw.githubusercontent.com/bluebeargreen-2/dotnet5pi/master/dotnetdebug.sh
 chmod +x /home/ubuntu/dotnetdebug.sh 
 
 echo -e "\e[0m"
